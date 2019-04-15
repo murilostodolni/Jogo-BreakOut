@@ -1,0 +1,1053 @@
+# depslib dependency file v1.0
+1512524135 source:c:\users\murilo\desktop\breakout\desenhos.c
+	<stdio.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512520247 source:c:\users\murilo\desktop\breakout\funcoes_bloco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"funcoes_externas.h"
+	"matriz.h"
+
+1512520081 c:\users\murilo\desktop\breakout\pontuacao.h
+
+1512520082 c:\users\murilo\desktop\breakout\menu.h
+
+1512527269 source:c:\users\murilo\desktop\breakout\funcoes_diversas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+	"menu.h"
+
+1512365907 source:c:\users\murilo\desktop\breakout\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1512524438 source:c:\users\murilo\desktop\breakout\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+
+1512408234 source:c:\users\murilo\desktop\breakout\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512527269 source:c:\users\murilo\desktop\breakout\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+	"funcoes_diversas.h"
+	"funcoes_bloco.h"
+	"movimento_barra.h"
+	"movimento_bola.h"
+	"velocidade_jogo.h"
+
+1512521415 source:c:\users\murilo\desktop\breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+	"funcoes_externas.h"
+	"menu.h"
+
+1512521440 source:c:\users\murilo\desktop\breakout\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512521668 source:c:\users\murilo\desktop\breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"jogo.h"
+	"pontuacao.h"
+	"velocidade_jogo.h"
+	"desenhos.h"
+	"matriz.h"
+	"jogo.h"
+	"intrucoes.h"
+	"funcoes_ranking.h"
+
+1512520081 c:\users\murilo\desktop\breakout\jogo.h
+
+1512521784 source:c:\users\murilo\desktop\breakout\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+
+1512524881 source:c:\users\murilo\desktop\breakout\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"desenhos.h"
+	"menu.h"
+
+1512526863 source:c:\users\murilo\desktop\breakout\movimento_barra.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512526371 source:c:\users\murilo\desktop\breakout\movimento_bola.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512179453 c:\users\murilo\desktop\breakout\funcoes_externas.h
+
+1512367461 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\desenhos.c
+	<stdio.h>
+	<windows.h>
+
+1512273753 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\funcoes_bloco.c
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"pontuacao.h"
+	"menu.h"
+
+1512173820 c:\users\felipe p. maciel\dropbox\menujogo\breakout\pontuacao.h
+
+1512173820 c:\users\felipe p. maciel\dropbox\menujogo\breakout\menu.h
+
+1512174491 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\funcoes_diversas.c
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"pontuacao.h"
+	"menu.h"
+
+1512365907 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1512366500 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"pontuacao.h"
+	"menu.h"
+	<ctype.h>
+
+1512408234 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512407783 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+
+1512179453 c:\users\felipe p. maciel\dropbox\menujogo\breakout\funcoes_externas.h
+
+1512407363 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1512174834 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512367103 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"jogo.h"
+	"pontuacao.h"
+
+1512173820 c:\users\felipe p. maciel\dropbox\menujogo\breakout\jogo.h
+
+1512175005 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\movimento_barra.c
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1512175022 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\movimento_bola.c
+
+1512353397 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1512179047 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1512524135 source:c:\users\murilo\dropbox\menujogo\breakout\desenhos.c
+	<stdio.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512520247 source:c:\users\murilo\dropbox\menujogo\breakout\funcoes_bloco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"funcoes_externas.h"
+	"matriz.h"
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout\pontuacao.h
+
+1512520082 c:\users\murilo\dropbox\menujogo\breakout\menu.h
+
+1512525043 source:c:\users\murilo\dropbox\menujogo\breakout\funcoes_diversas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+	"menu.h"
+
+1512365907 source:c:\users\murilo\dropbox\menujogo\breakout\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1512524438 source:c:\users\murilo\dropbox\menujogo\breakout\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+
+1512408234 source:c:\users\murilo\dropbox\menujogo\breakout\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512526245 source:c:\users\murilo\dropbox\menujogo\breakout\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+	"funcoes_diversas.h"
+	"funcoes_bloco.h"
+	"movimento_barra.h"
+	"movimento_bola.h"
+	"velocidade_jogo.h"
+
+1512179453 c:\users\murilo\dropbox\menujogo\breakout\funcoes_externas.h
+
+1512521415 source:c:\users\murilo\dropbox\menujogo\breakout\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+	"funcoes_externas.h"
+	"menu.h"
+
+1512521440 source:c:\users\murilo\dropbox\menujogo\breakout\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512521739 source:c:\users\murilo\dropbox\menujogo\breakout\movimento_barra.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512526371 source:c:\users\murilo\dropbox\menujogo\breakout\movimento_bola.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512521784 source:c:\users\murilo\dropbox\menujogo\breakout\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+
+1512524881 source:c:\users\murilo\dropbox\menujogo\breakout\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"desenhos.h"
+	"menu.h"
+
+1512521668 source:c:\users\murilo\dropbox\menujogo\breakout\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"jogo.h"
+	"pontuacao.h"
+	"velocidade_jogo.h"
+	"desenhos.h"
+	"matriz.h"
+	"jogo.h"
+	"intrucoes.h"
+	"funcoes_ranking.h"
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout\jogo.h
+
+1512174399 c:\users\felipe p. maciel\dropbox\menujogo\breakout\funcoes_diversas.h
+
+1512520082 c:\users\murilo\dropbox\menujogo\breakout\matriz.h
+
+1512521668 c:\users\murilo\dropbox\menujogo\breakout\desenhos.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout\funcoes_ranking.h
+
+1512519906 c:\users\murilo\dropbox\menujogo\breakout\funcoes_diversas.h
+
+1512521367 c:\users\murilo\dropbox\menujogo\breakout\funcoes_bloco.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout\movimento_barra.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout\velocidade_jogo.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout\intrucoes.h
+
+1512525920 c:\users\murilo\dropbox\menujogo\breakout\movimento_bola.h
+
+1512520082 c:\users\murilo\desktop\breakout\matriz.h
+
+1512521668 c:\users\murilo\desktop\breakout\desenhos.h
+
+1512520081 c:\users\murilo\desktop\breakout\funcoes_ranking.h
+
+1512519906 c:\users\murilo\desktop\breakout\funcoes_diversas.h
+
+1512521367 c:\users\murilo\desktop\breakout\funcoes_bloco.h
+
+1512526863 c:\users\murilo\desktop\breakout\movimento_barra.h
+
+1512527184 c:\users\murilo\desktop\breakout\movimento_bola.h
+
+1512520081 c:\users\murilo\desktop\breakout\velocidade_jogo.h
+
+1512520081 c:\users\murilo\desktop\breakout\intrucoes.h
+
+1512869250 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\desenhos.c
+	<stdio.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512179453 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_externas.h
+
+1512520247 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_bloco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"funcoes_externas.h"
+	"matriz.h"
+
+1512520082 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\matriz.h
+
+1512869246 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_diversas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+	"menu.h"
+
+1512521668 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\desenhos.h
+
+1512520081 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_ranking.h
+
+1512520082 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\menu.h
+
+1512365907 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1513037186 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+
+1512519906 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_diversas.h
+
+1512408234 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512869165 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+	"funcoes_diversas.h"
+	"funcoes_bloco.h"
+	"movimento_barra.h"
+	"movimento_bola.h"
+	"velocidade_jogo.h"
+
+1512520081 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\pontuacao.h
+
+1512521367 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\funcoes_bloco.h
+
+1512526863 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\movimento_barra.h
+
+1512527184 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\movimento_bola.h
+
+1512520081 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\velocidade_jogo.h
+
+1512521415 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+	"funcoes_externas.h"
+	"menu.h"
+
+1512521440 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512529606 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"jogo.h"
+	"pontuacao.h"
+	"velocidade_jogo.h"
+	"desenhos.h"
+	"matriz.h"
+	"jogo.h"
+	"intrucoes.h"
+	"funcoes_ranking.h"
+
+1512520081 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\jogo.h
+
+1512520081 c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\intrucoes.h
+
+1512526863 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\movimento_barra.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512530159 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\movimento_bola.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1513077713 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+
+1512524881 source:c:\users\felipe p. maciel\dropbox\menujogo\breakout pronto\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"desenhos.h"
+	"menu.h"
+
+1512869250 source:c:\users\murilo\dropbox\menujogo\breakout pronto\desenhos.c
+	<stdio.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512179453 c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_externas.h
+
+1512520247 source:c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_bloco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"funcoes_externas.h"
+	"matriz.h"
+
+1512520082 c:\users\murilo\dropbox\menujogo\breakout pronto\matriz.h
+
+1512869246 source:c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_diversas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+	"menu.h"
+
+1512521668 c:\users\murilo\dropbox\menujogo\breakout pronto\desenhos.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_ranking.h
+
+1512520082 c:\users\murilo\dropbox\menujogo\breakout pronto\menu.h
+
+1512365907 source:c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1513037186 source:c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+
+1512519906 c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_diversas.h
+
+1512408234 source:c:\users\murilo\dropbox\menujogo\breakout pronto\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512869165 source:c:\users\murilo\dropbox\menujogo\breakout pronto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+	"funcoes_diversas.h"
+	"funcoes_bloco.h"
+	"movimento_barra.h"
+	"movimento_bola.h"
+	"velocidade_jogo.h"
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout pronto\pontuacao.h
+
+1512521367 c:\users\murilo\dropbox\menujogo\breakout pronto\funcoes_bloco.h
+
+1512526863 c:\users\murilo\dropbox\menujogo\breakout pronto\movimento_barra.h
+
+1512527184 c:\users\murilo\dropbox\menujogo\breakout pronto\movimento_bola.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout pronto\velocidade_jogo.h
+
+1512521415 source:c:\users\murilo\dropbox\menujogo\breakout pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+	"funcoes_externas.h"
+	"menu.h"
+
+1512521440 source:c:\users\murilo\dropbox\menujogo\breakout pronto\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512529606 source:c:\users\murilo\dropbox\menujogo\breakout pronto\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"jogo.h"
+	"pontuacao.h"
+	"velocidade_jogo.h"
+	"desenhos.h"
+	"matriz.h"
+	"jogo.h"
+	"intrucoes.h"
+	"funcoes_ranking.h"
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout pronto\jogo.h
+
+1512520081 c:\users\murilo\dropbox\menujogo\breakout pronto\intrucoes.h
+
+1512526863 source:c:\users\murilo\dropbox\menujogo\breakout pronto\movimento_barra.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512530159 source:c:\users\murilo\dropbox\menujogo\breakout pronto\movimento_bola.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1513077713 source:c:\users\murilo\dropbox\menujogo\breakout pronto\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+
+1512524881 source:c:\users\murilo\dropbox\menujogo\breakout pronto\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"desenhos.h"
+	"menu.h"
+
+1512869250 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\desenhos.c
+	<stdio.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512179453 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_externas.h
+
+1512520247 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_bloco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"funcoes_externas.h"
+	"matriz.h"
+
+1512520082 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\matriz.h
+
+1512869246 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_diversas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+	"menu.h"
+
+1512521668 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\desenhos.h
+
+1512520081 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_ranking.h
+
+1512520082 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\menu.h
+
+1512365907 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1513037186 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+
+1512519906 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_diversas.h
+
+1512408234 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512869165 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+	"funcoes_diversas.h"
+	"funcoes_bloco.h"
+	"movimento_barra.h"
+	"movimento_bola.h"
+	"velocidade_jogo.h"
+
+1512520081 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\pontuacao.h
+
+1512521367 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\funcoes_bloco.h
+
+1512526863 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\movimento_barra.h
+
+1512527184 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\movimento_bola.h
+
+1512520081 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\velocidade_jogo.h
+
+1512521415 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+	"funcoes_externas.h"
+	"menu.h"
+
+1512521440 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\matriz.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512529606 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"jogo.h"
+	"pontuacao.h"
+	"velocidade_jogo.h"
+	"desenhos.h"
+	"matriz.h"
+	"jogo.h"
+	"intrucoes.h"
+	"funcoes_ranking.h"
+
+1512520081 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\jogo.h
+
+1512520081 e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\intrucoes.h
+
+1512526863 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\movimento_barra.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512530159 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\movimento_bola.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1513077713 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+
+1512524881 source:e:\arquivos na nuvem\dropbox\menujogo\breakout pronto\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"desenhos.h"
+	"menu.h"
+
+1512869250 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\desenhos.c
+	<stdio.h>
+	<windows.h>
+	"funcoes_externas.h"
+
+1512179453 c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_externas.h
+
+1512520247 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_bloco.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"funcoes_externas.h"
+	"matriz.h"
+
+1512520082 c:\users\m_cam\dropbox\menujogo\breakout pronto\matriz.h
+
+1512869246 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_diversas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+	"menu.h"
+
+1512521668 c:\users\m_cam\dropbox\menujogo\breakout pronto\desenhos.h
+
+1512520081 c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_ranking.h
+
+1512520082 c:\users\m_cam\dropbox\menujogo\breakout pronto\menu.h
+
+1512365907 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_externas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1513037186 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+	"desenhos.h"
+	"funcoes_ranking.h"
+
+1512519906 c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_diversas.h
+
+1512408234 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1512869165 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"pontuacao.h"
+	"funcoes_externas.h"
+	"funcoes_diversas.h"
+	"funcoes_bloco.h"
+	"movimento_barra.h"
+	"movimento_bola.h"
+	"velocidade_jogo.h"
+
+1512520081 c:\users\m_cam\dropbox\menujogo\breakout pronto\pontuacao.h
+
+1512521367 c:\users\m_cam\dropbox\menujogo\breakout pronto\funcoes_bloco.h
+
+1512526863 c:\users\m_cam\dropbox\menujogo\breakout pronto\movimento_barra.h
+
+1512527184 c:\users\m_cam\dropbox\menujogo\breakout pronto\movimento_bola.h
+
+1512520081 c:\users\m_cam\dropbox\menujogo\breakout pronto\velocidade_jogo.h
+
+1512521415 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"desenhos.h"
+	"funcoes_externas.h"
+	"menu.h"
+
+1512529606 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"jogo.h"
+	"pontuacao.h"
+	"velocidade_jogo.h"
+	"desenhos.h"
+	"matriz.h"
+	"jogo.h"
+	"intrucoes.h"
+	"funcoes_ranking.h"
+
+1512520081 c:\users\m_cam\dropbox\menujogo\breakout pronto\jogo.h
+
+1512520081 c:\users\m_cam\dropbox\menujogo\breakout pronto\intrucoes.h
+
+1512526863 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\movimento_barra.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1512530159 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\movimento_bola.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	"funcoes_externas.h"
+
+1513077713 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\pontuacao.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"funcoes_diversas.h"
+	"funcoes_externas.h"
+
+1512524881 source:c:\users\m_cam\dropbox\menujogo\breakout pronto\velocidade_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"desenhos.h"
+	"menu.h"
+

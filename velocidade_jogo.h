@@ -1,0 +1,6 @@
+#ifndef VELOCIDADE_JOGO_H_INCLUDED
+#define VELOCIDADE_JOGO_H_INCLUDED
+
+void escolha_nivel();
+
+#endif // VELOCIDADE_JOGO_H_INCLUDED
